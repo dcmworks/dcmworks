@@ -2,7 +2,7 @@
 
 title: Miss Bartlett's Drought
 layout: Chapter
-permalink: ./novels/pokemonovel/1/
+permalink: novels/pokemonovel/1/
 noveltitle: pokemonovel
 chapternumber: One.
 headerimg: http://i.imgur.com/#
