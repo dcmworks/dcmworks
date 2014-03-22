@@ -169,7 +169,7 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 
 #slide1, #slide2{ width: 100%; }
 #slide1{
-	background:url('../_img/slide1.jpg') 50% 100% no-repeat fixed;
+	background:url('{{ page.headerimg }}') 50% 100% no-repeat fixed;
 	color: #fff;
 	margin: 0;
 	padding: 20% 0 20% 0;
@@ -203,7 +203,7 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 }
 
 #slide5{
-	background: url('../_img/slide5.jpg') 100% 100% no-repeat fixed;
+	background: url('{{ page.footerimg }}') 100% 100% no-repeat fixed;
 	margin: 0 auto;
 	padding: 20% 0 20% 0;
 	color: #fff;
