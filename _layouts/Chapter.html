@@ -3,44 +3,22 @@
   <head>
 	   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
        <title>DCM Works - {{ page.title }}</title>
-       <link rel="stylesheet" href="../../../_css/style.css"/>
-	   <script type="text/javascript" src="../../../_js/jquery-1.10.2.min.js"></script>
+	   <script type="text/javascript" src="{% include jquery-1.10.2.min.js %}"></script>
        <link href='http://fonts.googleapis.com/css?family=Wellfleet' rel='stylesheet' type='text/css'>
 	   <link href='http://fonts.googleapis.com/css?family=Wellfleet' rel='stylesheet' type='text/css'>
 	   <link href='http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic' rel='stylesheet' type='text/css'>	
 	   <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
 	   <link href='http://fonts.googleapis.com/css?family=Goudy+Bookletter+1911' rel='stylesheet' type='text/css'>
 	<script>
-
-$(document).ready(function() {
-  $('a[href*=#]').each(function() {
-    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
-    && location.hostname == this.hostname
-    && this.hash.replace(/#/,'') ) {
-      var $targetId = $(this.hash), $targetAnchor = $('[name=' + this.hash.slice(1) +']');
-      var $target = $targetId.length ? $targetId : $targetAnchor.length ? $targetAnchor : false;
-       if ($target) {
-         var targetOffset = $target.offset().top;
-   
-         $(this).click(function() {
-            $("#nav li a").removeClass("active");
-            $(this).addClass('active');
-           $('html, body').animate({scrollTop: targetOffset}, 1000);
-           return false;
-         });
-      }
-    }
-  });
-
-});
-
-</script>
-
-
+	{% include scroll.js %}
+	</script>
+	<style type="text/css">
+	{% include chapter.css %}
+	</style>
  </head> 
 	
 <body>
- 
+
 <div id="chapter_nav">
 <a href="{{ paginator.previous_page }}" class="lpanel">  BACK A CHAPTER </a>
 <a href="" class="lpanel"> 1 </a>
@@ -94,7 +72,7 @@ $(document).ready(function() {
 		  <img src="_img/dr-seuss.png" align="left"/> <h4 class="author_name_gray">Dr. Seuss </h4>
 		</div> 
 		</div> 
-    </div> 
+    </div>
 
 	<div id="footer">
 		<div id="copyright"><a href="http://dcmworks.co.uk/">Copyright DCMWorks</a><br />{{ page.trademarks }}</div> 
