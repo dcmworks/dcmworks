@@ -3,8 +3,8 @@
   <head>
 	   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
        <title>DCM Works - {{ page.title }}</title>
-       <link rel="stylesheet" href="../_css/style.css"/>
-	   <script type="text/javascript" src="../_js/jquery-1.10.2.min.js"></script>
+       <link rel="stylesheet" href="../../../_css/style.css"/>
+	   <script type="text/javascript" src="../../../_js/jquery-1.10.2.min.js"></script>
        <link href='http://fonts.googleapis.com/css?family=Wellfleet' rel='stylesheet' type='text/css'>
 	   <link href='http://fonts.googleapis.com/css?family=Wellfleet' rel='stylesheet' type='text/css'>
 	   <link href='http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic' rel='stylesheet' type='text/css'>	
@@ -43,8 +43,8 @@ $(document).ready(function() {
  
 <div id="chapter_nav">
 <a href="{{ paginator.previous_page }}" class="lpanel">  BACK A CHAPTER </a>
-<a href="" class="lpanel"> {{ paginator.page }} </a>
-<a href="{{ page.next }}" class="lpanel"> FORWARD A CHAPTER  </a>
+<a href="" class="lpanel"> 1 </a>
+<a href="http://dcmworks.co.uk/novels/pokemonovel/{{ page.foward }}/" class="lpanel"> FORWARD A CHAPTER  </a>
 </div>
 
    
@@ -57,7 +57,7 @@ $(document).ready(function() {
 		<li><a href="#slide1" class="active" title="Next Section" >I.</a></li>
 		<li><a href="#slide2" title="Next Section">II.</a></li>
 		<li><a href="#slide3" title="Next Section">III.</a></li>
-		<li><a  href="#slide4" title="Next Section">IV.</a></li>
+		<li><a href="#slide4" title="Next Section">IV.</a></li>
 		<li><a href="#slide5" title="Next Section">V.</a></li>
 	</ul>
 </nav>
@@ -74,7 +74,7 @@ $(document).ready(function() {
 	<div id="slide2">
 		<div class="content">
 			<div class="quotes_container"><div class="soundcloud">
-		       <iframe width="100%" height="140" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ soundcloudnum }}&amp;auto_play=false&amp;hide_related=false&amp;visual=true"></iframe></div>
+		       <iframe width="100%" height="140" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ page.soundcloudnum }}&amp;auto_play=false&amp;hide_related=false&amp;visual=true"></iframe></div>
 		    </div> 
 		</div> 
     </div> 
