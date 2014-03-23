@@ -5,8 +5,8 @@ layout: Chapter
 permalink: novels/pokemonovel/1/
 noveltitle: pokemonovel
 chapternumber: One.
-headerimg: http://i.imgur.com/uatoOdc
-footerimg: http://i.imgur.com/#
+headerimg: uatoOdc
+footerimg: #
 soundcloudnum: 139335287
 forward: 2
 
