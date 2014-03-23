@@ -16,7 +16,9 @@
 <body>
 
 <div id="chapter_nav">
-<a href="{{ page.previous }}" class="lpanel">  BACK A CHAPTER </a>
+{% if page.backward %}
+<a href="{{ page.backward }}" class="lpanel">  BACK A CHAPTER </a>
+{% endif %}
 <a href="" class="lpanel"> 1 </a>
 <a href="http://dcmworks.co.uk/novels/pokemonovel/{{ page.forward }}/" class="lpanel"> FORWARD A CHAPTER  </a>
 </div>
@@ -51,7 +53,8 @@
 		       <iframe width="100%" height="140" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ page.soundcloudnum }}&amp;auto_play=false&amp;hide_related=false&amp;visual=true"></iframe></div>
 		    </div> 
 		</div> 
-    </div> 
+    </div>
+
     {% if page.content %}
 	<div id="slide3">
 		<div class="content" >
@@ -62,6 +65,7 @@
     </div> 
     {% endif %}
 	
+	{% if page.footerimg %}
 	<div id="slide4">
 		<div class="content">
               <div class="quotes_container">
@@ -70,6 +74,7 @@
 		</div> 
 		</div> 
     </div>
+    {% endif %}
 
 	<div id="footer">
 		<div id="copyright"><a href="http://dcmworks.co.uk/">Copyright DCMWorks</a><br />{{ page.trademarks }}</div> 

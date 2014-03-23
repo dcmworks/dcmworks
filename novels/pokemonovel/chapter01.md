@@ -6,7 +6,6 @@ permalink: novels/pokemonovel/1/
 noveltitle: pokemonovel
 chapternumber: One.
 headerimg: uatoOdc
-footerimg: #
 soundcloudnum: 139335287
 forward: 2
 

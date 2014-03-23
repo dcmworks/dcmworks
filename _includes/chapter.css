@@ -68,11 +68,12 @@ a.rpanel:hover{ color: #fff; }
 
 #header { 
 	width: 91%; 
-	background-colour: rgba(100, 100, 100, 0.9);
+	background-color: rgba(100, 100, 100, 0.9);
 	height: 80px; 	
 	position: fixed;
 	padding-left:5%;
 	padding-right:5%;
+	z-index: 100;
 }
 
 #nav { 
