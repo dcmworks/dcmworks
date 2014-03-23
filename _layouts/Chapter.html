@@ -3,12 +3,8 @@
   <head>
 	   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
        <title>DCM Works - {{ page.title }}</title>
-	   <script type="text/javascript" src="{% include jquery-1.10.2.min.js %}"></script>
-       <link href='http://fonts.googleapis.com/css?family=Wellfleet' rel='stylesheet' type='text/css'>
-	   <link href='http://fonts.googleapis.com/css?family=Wellfleet' rel='stylesheet' type='text/css'>
-	   <link href='http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic' rel='stylesheet' type='text/css'>	
-	   <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
-	   <link href='http://fonts.googleapis.com/css?family=Goudy+Bookletter+1911' rel='stylesheet' type='text/css'>
+	   <script type="text/javascript">{% include jquery.min.js %}</script>
+       {% include fonts.html %}
 	<script>
 	{% include scroll.js %}
 	</script>
@@ -20,9 +16,9 @@
 <body>
 
 <div id="chapter_nav">
-<a href="{{ paginator.previous_page }}" class="lpanel">  BACK A CHAPTER </a>
+<a href="{{ page.previous }}" class="lpanel">  BACK A CHAPTER </a>
 <a href="" class="lpanel"> 1 </a>
-<a href="http://dcmworks.co.uk/novels/pokemonovel/{{ page.foward }}/" class="lpanel"> FORWARD A CHAPTER  </a>
+<a href="http://dcmworks.co.uk/novels/pokemonovel/{{ page.forward }}/" class="lpanel"> FORWARD A CHAPTER  </a>
 </div>
 
    
@@ -56,14 +52,15 @@
 		    </div> 
 		</div> 
     </div> 
-
+    {% if page.content %}
 	<div id="slide3">
 		<div class="content" >
             <div class="quotes_container">
-		    <h3 class="p">{{ page.content }}</h3>
+		    {{ page.content }}
 		</div> 
 		</div> 
     </div> 
+    {% endif %}
 	
 	<div id="slide4">
 		<div class="content">
