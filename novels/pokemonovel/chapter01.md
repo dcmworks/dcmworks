@@ -2,10 +2,11 @@
 
 title: Miss Bartlett's Drought
 layout: Chapter
-permalink: novels/pokemonovel/1/
+permalink: novels/necessityofhendricks/1/
 noveltitle: pokemonovel
-chapternumber: One.
-headerimg: uatoOdc
+chapternumber: 1
+headerimg: QcQ7Gm
+footerimg: uatoOdc
 soundcloudnum: 139335287
 forward: 2
 

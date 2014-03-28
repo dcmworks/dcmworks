@@ -20,21 +20,22 @@
 <a href="{{ page.backward }}" class="lpanel">  BACK A CHAPTER </a>
 {% endif %}
 <a href="" class="lpanel"> 1 </a>
-<a href="http://dcmworks.co.uk/novels/pokemonovel/{{ page.forward }}/" class="lpanel"> FORWARD A CHAPTER  </a>
+<a href="http://dcmworks.co.uk/novels/necessityofhendricks/{{ page.forward }}/" class="lpanel"> FORWARD A CHAPTER  </a>
 </div>
 
    
 <header id="header">
 <div class="content">
-<div id="logo"><a href="{{ site.url }}"> DCMWORKS - {{ page.noveltitle }}</div>
+<div id="logo"><a href="{{ site.baseurl }}"> DCMWORKS - {{ page.noveltitle }}</div>
 
 <nav id="nav">
 	<ul>
-		<li><a href="#slide1" class="active" title="Next Section" >I.</a></li>
-		<li><a href="#slide2" title="Next Section">II.</a></li>
-		<li><a href="#slide3" title="Next Section">III.</a></li>
-		<li><a href="#slide4" title="Next Section">IV.</a></li>
-		<li><a href="#slide5" title="Next Section">V.</a></li>
+		<li><a href="{{ site.baseurl }}/novels" class="active" title="Next Section" >Novels</a></li>
+		<li><a href="{{ site.baseurl }}/art" title="Next Section">Art</a></li>
+		<li><a href="{{ site.baseurl }}/lore" title="Next Section">Lore</a></li>
+		<li><a href="{{ site.baseurl }}/merch" title="Next Section">Merch</a></li>
+		<li><a href="{{ site.baseurl }}/about" title="Next Section">About</a></li>
+		<li><a href="{{ site.baseurl }}/contact" title="Next Section">Contact</a></li>
 	</ul>
 </nav>
 </div>
@@ -42,8 +43,8 @@
   	
 	<div id="slide1">
 		<div id="title" class="content">
-            <h2>{{ page.chapternumber }}</h2>
-		    <h1>{{ page.title }}</h1>
+            {% if page.backward %}<h2><a href="http://dcmworks.co.uk/novels/necessityofhendricks/{{ page.backward }}/"><< Previous Chapter</a></h2>{% endif %}
+		    <h1>{{ page.chapternumber }} - {{ page.title }}</h1>
 		</div> 
     </div> 
 
@@ -68,10 +69,8 @@
 	{% if page.footerimg %}
 	<div id="slide4">
 		<div class="content">
-              <div class="quotes_container">
-		    <h3 class="p">“Christmas doesn't come from a store, maybe Christmas perhaps means a little bit more....” </h3>
-		  <img src="_img/dr-seuss.png" align="left"/> <h4 class="author_name_gray">Dr. Seuss </h4>
-		</div> 
+			<h2>End Chapter {{ page.chapternumber }}</h2>
+		    <h1><a href="http://dcmworks.co.uk/novels/necessityofhendricks/{{ page.forward }}/"> Next Chapter >></a></h1>
 		</div> 
     </div>
     {% endif %}

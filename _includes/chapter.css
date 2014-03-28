@@ -189,19 +189,11 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 }
 
 #slide3{
-
 }
 
 #slide4{
-	background-color: #fff;
-	color: #333333;
-	height: 300px;
-	padding: 200px 0;
-}
-
-#slide5{
-	background: url('http://i.imgur.com/{{ page.footerimg }}.jpg') 100% 100% no-repeat fixed;
-	margin: 0 auto;
+	background: url('http://i.imgur.com/{{ page.footerimg }}.jpg') 50% 100% no-repeat fixed;
+	margin: 0;
 	padding: 20% 0 20% 0;
 	color: #fff;
 	background-size: cover;
@@ -209,7 +201,6 @@ ul.built { list-style: none; margin: 0 auto; width: 730px; }
 }
 
 #footer{
-	
 	padding:5% 0 5% 0;
 }
 
