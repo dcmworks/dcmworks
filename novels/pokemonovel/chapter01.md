@@ -5,7 +5,7 @@ layout: Chapter
 permalink: novels/necessityofhendricks/1/
 noveltitle: pokemonovel
 chapternumber: 1
-headerimg: QcQ7Gm
+headerimg: rQcQ7Gm
 footerimg: uatoOdc
 soundcloudnum: 139335287
 forward: 2
