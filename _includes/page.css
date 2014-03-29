@@ -1,0 +1,222 @@
+/*
+Theme
+*/
+
+/*= GENERAL STYLING
+--------------------------------------------------------*/
+
+@-viewport{
+	height: 100%;
+	width: 100%;
+}
+
+@font-face{
+	font-family: Oswald;
+	font-weight: normal;
+	font-size: 12px;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+h1 { 
+    font-family:"Arvo";
+	font-weight:normal;
+	font-size: 55px;
+	text-align: center;
+	color: #fff;
+	margin: 0;
+	padding: 0;
+}
+
+h2 {
+   font-family:"Arvo";
+   font-weight: normal;
+   font-size: 40px;
+   text-align: center;
+   color: #fff;
+   margin: 0;
+	padding: 0;
+}
+
+h3 {
+   font-family: Oswald;
+   font-weight: normal;
+   font-size: 16px;
+   text-align: center;
+   margin: 5px 0;
+	padding: 0;
+	z-index: 1;
+	position: relative;
+}
+
+.center { margin: 0 auto; }
+.content{ margin: 0 auto; width: 100%; }
+.clear { clear: both; }
+a.lpanel { float: left; color: #e1e1e1; font-size: 12px; font-family:"Wellfleet"; text-decoration: none; margin: 7px 11px; }
+a.cpanel { float: middle; color: #e1e1e1; font-size: 12px; font-family:"Wellfleet"; text-decoration: none; margin: 7px 11px;}
+a.rpanel { float: right; color: #e1e1e1;  font-size: 12px; font-family:"Wellfleet"; text-decoration: none; margin: 7px 11px; }
+
+a.lpanel:hover{ color: #fff; }
+a.rpanel:hover{ color: #fff; }
+
+/*= HEADER & NAVIGATION
+--------------------------------------------------------*/
+
+#header { 
+	width: 91%; 
+	background-color: rgba(100, 100, 100, 0.9);
+	height: 80px; 	
+	position: fixed;
+	padding-left:5%;
+	padding-right:5%;
+	z-index: 100;
+}
+
+#nav { 
+	width: 50%; 
+	float: right; 
+	margin-top: 20px; 
+}
+
+#logo a { 
+	color: #fff; 
+	text-decoration: none; 
+	float: left; 
+	font-size: 30px; 
+	margin-top: 20px; 
+	color: #fff; 
+	font-family:"Wellfleet"; 
+	font-weight: bold; 
+}
+
+#nav ul{
+	list-style: none;
+	display: block;
+	margin: 0 auto;
+	list-style: none;	
+}
+
+#nav li{
+	margin-top: 9px;	
+	float: left;
+	padding-left: 21px;
+}
+
+#chapter_nav{
+	width:30%;
+	left:35%;
+	position: fixed;
+	margin-top: 80px;
+	background: url('../_img/header-bg.png');
+	background-size: 10000px;
+}
+
+#nav li a { color: #fff; opacity:0.6; font-size: 16px; text-decoration: none; font-family: 'Wellfleet'; }
+#nav li a.active { color: #fff; opacity:1; border-bottom: 2px solid #fff; }
+#nav li a:hover { color: #fff; opacity:1;  }
+
+.soundcloud {
+	margin-left:0;
+	padding-top:-5px;
+}
+
+/*= QUOTES AND SOME ELEMENTS
+--------------------------------------------------------*/
+.paragraph {   
+ font-family: 'Goudy Bookletter 1911', serif;
+   font-weight: normal;
+   font-size: 3vmin;
+  text-align: left;
+  margin: 50px auto;
+  width:80%;
+}
+   
+ .author_name_white { font-family:"Wellfleet";  margin: 70px 0 0 75px; color: #fff; font-size: 20px; }  
+ .author_name_gray { font-family:"Wellfleet";  margin: 70px 0 0 75px; color: #94a4a4; font-size: 20px; }  
+ .quotes_container { width: 100%; margin: 0 auto; }
+
+
+/*= BUTTONS
+--------------------------------------------------------*/
+button.btn-know { 
+	padding: 15px 47px; 
+	margin: 40px 38.8%;
+	text-align: center;
+	border: 4px solid #fff; 
+	color: #fff; 
+	background: transparent; 
+	font-size: 19px;
+	cursor: pointer;
+	text-shadow: -1px 2px 0px rgba(90, 90, 90, 0.56);
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+
+.btn-know:hover { background: #fff; color: transparent; }
+ul.built { list-style: none; margin: 0 auto; width: 730px; }
+.built li img{ float: left; padding-right: 34px; }
+
+a { color: #fff; opacity:0.6; font-size: 16px; text-decoration: none; font-family: 'Wellfleet'; }
+
+
+
+/*= SLIDES STYLING
+--------------------------------------------------------*/
+#title{
+	height:13.6%;
+}
+
+#slide1, #slide2{ width: 100%; }
+#slide1{
+	background:url('http://i.imgur.com/{{ page.headerimg }}.jpg') 50% 100% no-repeat fixed;
+	color: #fff;
+	margin: 0;
+	padding: 20% 0 20% 0;
+	background-size:cover;
+	z-index: 1;
+}
+
+#slide2{
+	background-color: #fff;
+	color: #333333;
+	height: 125px;
+	margin: 0 auto;
+	overflow: hidden;
+	z-index: 1;
+	margin-top: -5px;
+}
+
+#slide3{
+}
+
+#slide4{
+	background: url('http://i.imgur.com/{{ page.footerimg }}.jpg') 50% 100% no-repeat fixed;
+	margin: 0;
+	padding: 20% 0 20% 0;
+	color: #fff;
+	background-size: cover;
+	background-width:contain;
+}
+
+#footer{
+	padding:5% 0 5% 0;
+}
+
+
+/*= FOOTER 
+--------------------------------------------------------*/
+
+#copyright  { 
+	font-family:"Wellfleet";
+	font-size: 14px;
+	margin-top: 100px;
+	text-align: center;
+}
+
+#copyright  a { 
+	text-decoration: none;
+}

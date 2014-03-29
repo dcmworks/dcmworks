@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+       <title>DCM Works - {{ page.title }}</title>
+	   <script type="text/javascript">{% include jquery.min.js %}</script>
+       {% include fonts.html %}
+	<script>
+	{% include scroll.js %}
+	</script>
+	<style type="text/css">
+	{% include page.css %}
+	</style>
+ </head> 
+	
+<body>   
+<header id="header">
+<div class="content">
+<div id="logo"><a href="{{ site.baseurl }}" class="active"> DCMWORKS - {{ page.title }}</div>
+
+<nav id="nav">
+	<ul>
+		<li><a href="http://dcmworks.co.uk/novels" title="Novels" >Novels</a></li>
+		<li><a href="http://dcmworks.co.uk/art" title="Art">Art</a></li>
+		<li><a href="http://dcmworks.co.uk/lore" title="Lore">Lore</a></li>
+		<li><a href="http://dcmworks.co.uk/merch" title="Merch">Merch</a></li>
+		<li><a href="http://dcmworks.co.uk/about" title="About">About</a></li>
+		<li><a href="http://dcmworks.co.uk/contact" title="Contact">Contact</a></li>
+	</ul>
+</nav>
+</div>
+</header>	
+  	
+  	{% if page.headerimg %}
+	<div id="slide1">
+		<div id="title" class="content">
+            
+		</div> 
+    </div> 
+    {% endif %}
+
+    {% if page.content %}
+	<div id="slide3">
+		<div class="content" >
+            <div class="paragraph">
+		    {{ page.content }}
+		</div> 
+		</div> 
+    </div> 
+    {% endif %}
+	
+	{% if page.footerimg %}
+	<div id="slide4">
+		<div class="content">
+			
+		</div> 
+    </div>
+    {% endif %}
+
+	<div id="footer">
+		<div id="copyright"><a href="http://dcmworks.co.uk/">Copyright DCMWorks</a><br />{{ page.trademarks }}</div> 
+	</div>
+
+</body>
+</html>
