@@ -2,7 +2,7 @@
 
 title: About
 layout: Page
-permalink: about
+permalink: about/
 headerimg: 
 footerimg: 
 
