@@ -2,7 +2,7 @@
 
 title: Contact
 layout: Page
-permalink: contact
+permalink: contact/
 headerimg: 
 footerimg: 
 
