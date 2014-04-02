@@ -1,6 +1,7 @@
 ---
 
 title: Home
+headerimg: Z5f7g9b
 
 ---
 
@@ -37,6 +38,12 @@ title: Home
 </div>
 </header>	
 <body>
+
+	<div id="slide1">
+	{% if page.headerimg %}
+
+	{% endif %}
+	</div>
 
 	<div id="newsfeed">
 	{% for member in site.data.newsfeed %}
