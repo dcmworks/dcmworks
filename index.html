@@ -46,12 +46,12 @@ headerimg: Z5f7g9b
 	</div>
 
 	<div id="newsfeed">
-	{% for member in site.data.newsfeed %}
+	{% for newsfeed in site.data.newsfeed %}
 		<div id="newsitem" class="content">
-            <h2>{{ member.title }}</h2>
-		    <p>{{ member.body }}</p>
-		    {% if member.img %}<p><img url="http://i.imgur.com/{{ member.img }}.jpg"</p>{% endif %}
-		    {% if member.link %}<p><a href="http://dcmworks.co.uk/{{ member.link }}">{{ member.linktitle }}</a></p>{% endif %}
+            <h2>{{ newsfeed.title }}</h2>
+		    <p>{{ newsfeed.body }}</p>
+		    {% if newsfeed.img %}<p><img url="http://i.imgur.com/{{ newsfeed.img }}.jpg"></img></p>{% endif %}
+		    {% if newsfeed.link %}<p><a href="http://dcmworks.co.uk/{{ newsfeed.link }}">{{ newsfeed.linktitle }}</a></p>{% endif %}
 		</div>
 	{% endfor %}
     </div> 
