@@ -3,7 +3,7 @@
 title: Miss Bartlett's Drought
 layout: Chapter
 permalink: novels/necessityofhendricks/1/
-noveltitle: pokemonovel
+noveltitle: Necessity of Hendricks
 chapternumber: 1
 headerimg: rQcQ7Gm
 footerimg: uatoOdc
@@ -53,20 +53,12 @@ She hesitated and produced a photo from her purse. A snap of a healthy Squirtle,
 
 <br /><br />
 It’s hard to explain in simple terms, but I’ll do my best. This Squirtle worked in the substation beneath Miss Bartlett’s street, providing the people living along the street with fresh water. It would take more than a few words to explain how the various water types operate in a network, but suffice to say the missing Squirtle wouldn’t be missed by anyone but Miss Bartlett’s neighbours. I realised I’d written all this down as well. It’s always good to put down your thoughts, lest they disappear.
-
-
 <br /><br />
 “Continue.” I said simply. She took a deep breath, controlling herself, clearly distressed. And I suppose, rightly so. While her street would still get water, it would cost them more to draw from the network rather than their own source. Miss Bartlett wasn’t rich by any means. Even though she earned more than me, which isn’t saying a whole lot, the hike in water price would hit hard. So it made sense she’d come to me.
-
-
 <br /><br />
 “I wanted to add that I can’t… I can’t pay you your usual commission, Mister Hendricks. I’m just…” Her face fell. I’d always been a better read of Mons than people, but she seemed almost ashamed. I really needed money. I couldn’t afford to work for any less than commission, but she’d come to me. And, though I’m not one for honour or reputation, I’d hate myself for turning away a fellow in need.
-
-
 <br /><br />
 “I’ll do it for free.”
-
-
 <br /><br />
 “No, please-” She protested, but I silenced her with a raised pen.
 

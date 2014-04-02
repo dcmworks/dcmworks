@@ -43,7 +43,7 @@ title: Home
 		<div id="newsitem" class="content">
             <h2>{{ member.title }}</h2>
 		    <p>{{ member.body }}</p>
-		    {% if member.img %}<p>{{ member.img }}</p>{% endif %}
+		    {% if member.img %}<p><img url="http://i.imgur.com/{{ member.img }}.jpg"</p>{% endif %}
 		    {% if member.link %}<p><a href="http://dcmworks.co.uk/{{ member.link }}">{{ member.linktitle }}</a></p>{% endif %}
 		</div>
 	{% endfor %}
