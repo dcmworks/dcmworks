@@ -14,7 +14,7 @@ Dcmworks.co.uk is a collaborative space for writers, artists and audio technicia
 
 <img src="http://i.imgur.com/bUZjRSB.png" title="Hosted by imgur.com"/>
 
-<br />
+<br /><br />
 
 Click here for Necessity of Hendricks Chapter One --> http://dcmworks.co.uk/novels/necessityofhendricks/1/
 
