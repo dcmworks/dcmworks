@@ -47,7 +47,7 @@ Liam
 
 <br />
 
-Between studying to be the world’s greatest journalist, and being a totally sexy beast, Liam finds the time to help run the business side of DCM Works. He is in charge of our social media, responding to your inquiries and keeping David in line. Liam is in mint factory condition, is humble and an excellent self-promoter.
+Between studying to be the world’s greatest journalist, and being a totally sexy beast, Liam finds the time to help run the business side of DCM Works. He is in charge of our social media, responding to your inquiries and keeping David in line. Liam is fuelled by a combination of skittles, caffeine, and the desire for true and lasting world peace.
 
 
 <br /><br />
