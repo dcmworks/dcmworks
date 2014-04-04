@@ -140,7 +140,7 @@ I had to break the bulletproof skin on its face and before going for a head shot
 It lunged for me, two arms barrelling toward my face. I ducked around to the right, only to see another huge fist about a finger’s width from my chin. My left hand jack-hammered up and I flung the powder at its face. The creature stumbled back, growling in surprise. I capitalized, stepping forward and throwing my weight as I struck with the pipe, slamming the Machamp’s chin in an uppercut. 
 
 
-<br /><br /><
+<br /><br />
 
 
 <img src="http://i.imgur.com/34yAIO8.jpg" title="Hosted by imgur.com"/>
