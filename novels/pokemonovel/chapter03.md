@@ -4,8 +4,8 @@ title: The Pitt Stop
 layout: Chapter
 permalink: novels/necessityofhendricks/3/
 chapternumber: 3
-headerimg: HatpzHV
-footerimg: zs0R8B0
+headerimg: 
+footerimg: 
 soundcloudnum: 
 forward: 4
 backward: 2
