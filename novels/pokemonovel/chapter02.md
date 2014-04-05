@@ -1,6 +1,6 @@
 ---
 
-title: A Forrest Fire
+title: A Forest Fire
 layout: Chapter
 permalink: novels/necessityofhendricks/2/
 noveltitle: Necessity of Hendricks
@@ -193,7 +193,7 @@ I slipped the pinkie-sized ball from my belt and eased in the button, the Poke b
 
 <br />
 
-“I still find her discomforting.” Takeshi noted. 
+“I still find her discomforting,” Takeshi noted. 
 
 
 <br /><br />
@@ -217,7 +217,7 @@ We strolled outside to the police cruiser with the lage thermos in the trunk.I m
 
 <br />
 
-“Oh god.” I muttered.
+“Oh god,” I muttered.
 
 <br />
 
@@ -225,7 +225,7 @@ We strolled outside to the police cruiser with the lage thermos in the trunk.I m
 
 <br />
 
-“This coffee is terrible.” I said, taking another gulp. He smiled wryly. 
+“This coffee is terrible,” I said, taking another gulp. He smiled wryly. 
 Eventually, Takeshi led me toward his ancient Mustang. His vintage muscle car was bumblebee yellow, but I’d made the mistake of making a crack about its bombastic flare a few months back, and he hadn’t spoken to me for a week.
 
 
@@ -267,7 +267,7 @@ I pulled out a long coat from the bag. It was about my height, fashioned from so
 
 <br />
 
-“I feel like a pirate.” I said quietly. Unsurprisingly, Takeshi paid my words no heed.
+“I feel like a pirate,” I said quietly. Unsurprisingly, Takeshi paid my words no heed.
 
 <br />
 
