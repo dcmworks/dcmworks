@@ -3,7 +3,7 @@
 title: About Dcmworks
 layout: Page
 permalink: about/
-headerimg: oJjmF6j
+headerimg: FFjM3TQ
 footerimg: 
 
 ---
@@ -69,11 +69,7 @@ Links:
 <br /><br />
 
 
-Yen-Rong:
-
-<br />
-
-Links:
+Yen-Rong: As gobbler of semi colons and spelling errors, Yen-Rong makes sure your reading experience here is as painless as possible. She also moonlights as DCMWorks’ lore extraordinaire between hair flips, too-full glasses of red wine and pushing her spectacles up her nose. Yen-Rong is hoping that this will make her famous enough to be able to criticise Tony Abbott without any occupational consequences.
 
 
 <br /><br />
