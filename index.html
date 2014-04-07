@@ -50,7 +50,6 @@ headerimg: Z5f7g9b
 		<div id="newsitem" class="content">
             <h2>{{ newsfeed.lead }}</h2>
 		    <p>{{ newsfeed.body }}</p>
-		    {% if newsfeed.img %}<p><img url="http://i.imgur.com/{{ newsfeed.img }}.jpg"></img></p>{% endif %}
 		    {% if newsfeed.link %}<p><a href="http://dcmworks.co.uk/{{ newsfeed.link }}">{{ newsfeed.linktitle }}</a></p>{% endif %}
 		</div>
 	{% endfor %}
