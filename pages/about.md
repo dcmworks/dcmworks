@@ -24,76 +24,13 @@ Click here for Necessity of Hendricks Chapter One --> http://dcmworks.co.uk/nove
 
 Who are we?
 
-
+{% for people in site.data.people.yml %}
 <br /><br />
-
-David (dcmihatepie)
-
-<br />
-
-I am the lead writer and I steer the creative boat that is Dcmworks. Most of what I do is sit in a room and stare at a keyboard, but every now and then I attend a meeting. As well as writing the novels you see on Dcmworks, I also run a Youtube channel, attend University and write fantasy on the side.
-
-<br />
-
-Links: 
-youtube.com/dcmihatepie
-twitter.com/dcmihatepie
-
-
-<br /><br />
-
-
-Liam
-
-<br />
-
-Between studying to be the world’s greatest journalist, and being a totally sexy beast, Liam finds the time to help run the business side of DCM Works. He is in charge of our social media, responding to your inquiries and keeping David in line. Liam is fuelled by a combination of skittles, caffeine, and the desire for true and lasting world peace.
-
-
-<br /><br />
-
-
-Contact: dcmworkssocial@gmail.com
-
-
-<br /><br />
-
-
-Lindsey:
-
-<br />
-
-Links:
-
-
-<br /><br />
-
-
-Yen-Rong: As gobbler of semi colons and spelling errors, Yen-Rong makes sure your reading experience here is as painless as possible. She also moonlights as DCMWorks’ lore extraordinaire between hair flips, too-full glasses of red wine and pushing her spectacles up her nose. Yen-Rong is hoping that this will make her famous enough to be able to criticise Tony Abbott without any occupational consequences.
-
-
-<br /><br />
-
-
-Alex:
-
-<br />
-
-Links:
-
-
-<br /><br />
-
-
-
-Ben (Lim3s):
-
-<br />
-
-Links:
-
-
-<br /><br />
+<div id="person" class="content">
+	<h3>{{ people.name }} {% if people.alias %}({{ people.alias }}){% endif %}</h3>
+	<p>{{ people.description }}</p>
+</div>
+{% endfor %}
 
 
 If you're an artist, writer or voice actor (or even audio technician!) and want to work with us, head over to our Contact Us page up top!
