@@ -8,8 +8,6 @@ footerimg: rXdnEu4
 
 ---
 
-<img src="http://i.imgur.com/5xjr5UH.jpg" title="Hosted by imgur.com"/>
-
 
 <br /><br />
 
