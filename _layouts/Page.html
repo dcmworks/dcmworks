@@ -39,6 +39,13 @@
     </div> 
     {% endif %}
 
+    {% for people in site.data.people.yml %}
+	<div id="person" class="content">
+		<h3>{{ people.name }} {% if people.alias %}({{ people.alias }}){% endif %}</h3>
+		<p>{{ people.description }}</p>
+	</div>
+	{% endfor %}
+
     {% if page.content %}
 	<div id="slide3">
 		<div class="content" >
