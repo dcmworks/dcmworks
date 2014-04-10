@@ -13,19 +13,6 @@ backward: 1
 
 ---
 
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-2359071490995845";
-/* Dcmworks chapter adds */
-google_ad_slot = "4390999149";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript"
-src="//pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
-
 <br /><br />
 
 The phone rang at ten past two, about an hour after Miss Bartlett left. I’d spent the time reading through some of the Pokémon League’s files on network Pokémon regarding past disappearances. I hadn’t found anything useful yet, so the phone ringing was a welcome distraction. I picked up the handset and did my usual intro. 
