@@ -7,7 +7,7 @@ noveltitle: Necessity of Hendricks
 chapternumber: 2
 headerimg: HJZiqqN
 footerimg: 52uDTmw
-soundcloudnum: 
+soundcloudnum: 144004134
 forward: 3
 backward: 1
 
