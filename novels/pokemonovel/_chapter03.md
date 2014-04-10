@@ -155,7 +155,7 @@ The weapon warped around its face and its four over-sized arms rubbed at its eye
 <br /><br />
 
 
-<img src="http://i.imgur.com/rXdnEu4.jpg" title="Hosted by imgur.com"/>
+<img src="http://i.imgur.com/rXdnEu4.jpg" title="Hosted by imgur.com" style="width:100%"/>
 
 
 <br /><br />
