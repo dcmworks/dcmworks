@@ -98,7 +98,7 @@ There were seven – no eight – diagonal cuts across the man’s upper torso. 
 <br />
 “This was definitely a Pokémon hit. One to kill the target with claws, I think, another to wipe clean prints and any traces of skin or hair.” Takeshi nodded. 
 <br />
-“This tells us two things.” I continued, pacing about the room. 
+“This tells us two things,” I continued, pacing about the room. 
 <br />
 “First, our killer must have owned a well-trained fire Pokémon – probably something that’d been used for jobs like this before, or at least, trained properly – and second, whoever did this had a careful plan that involved cleaning up after themselves. This isn’t some second-rate hit or a murder of passion. Western’s death was the work of a professional, which doesn’t exclude family members or friends as culprits, just means they didn’t do the dirty work themselves. Did our victim have any ties to Giovanni or his team?” Takeshi shook his head and studied the body absently. 
 
