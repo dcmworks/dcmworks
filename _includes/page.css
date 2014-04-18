@@ -38,7 +38,6 @@ h2 {
    font-weight: normal;
    font-size: 40px;
    text-align: center;
-   color: #fff;
    margin: 0;
 	padding: 0;
 }
@@ -161,7 +160,7 @@ button.btn-know {
 ul.built { list-style: none; margin: 0 auto; width: 730px; }
 .built li img{ float: left; padding-right: 34px; }
 
-a { color: #fff; opacity:0.6; font-size: 16px; text-decoration: none; font-family: 'Wellfleet'; }
+a { opacity:0.6; font-size: 16px; text-decoration: none; font-family: 'Wellfleet'; }
 
 
 
