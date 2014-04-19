@@ -143,7 +143,7 @@ It lunged for me, two arms barrelling toward my face. I ducked around to the rig
 <br /><br />
 
 
-<img src="http://i.imgur.com/34yAIO8.jpg" title="Hosted by imgur.com"/>
+<img src="http://i.imgur.com/34yAIO8.jpg" title="Hosted by imgur.com" style="width:100%"/>
 
 
 <br /><br />
