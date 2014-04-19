@@ -81,6 +81,10 @@ I whirled in a full three-sixty, dropping to one knee while drawing my revolver,
 
 <br /><br />
 
+<img src="http://i.imgur.com/jfTUPvF.jpg" title="Hosted by imgur.com" style="width:100%"/>
+
+<br /><br />
+
 “Good boy.” I said to him, hunkering above her head. To pixie-cut, the whole world was Creon’s face and mine. 
 <br />
 “Four mistakes is four too many, pixie-cut.” I told her, feeling the weight of my revolver in my palm. She gulped, vocal cords tightening, her pupils dilating.
