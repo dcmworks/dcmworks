@@ -12,6 +12,9 @@ forward: 2
 
 ---
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="http://bandcamp.com/EmbeddedPlayer/track=2973033773/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://dcmworks.bandcamp.com/track/chapter-1-necessity-of-hendricks">Chapter 1 - Necessity of Hendricks by Dcmworks</a></iframe>
+<br />
+
 Three raps sounded on my door. I had been reclining in my chair when she arrived, reading a dusty paperback. I glanced at the door, briefly entertaining the possibility of hiding under my desk until the customer left. It was then I noticed the power bill tucked against my monitor and remembered I needed the money. I called the customer in and wasn’t surprised to see an old acquaintance - I’d helped find her Eevee a few months ago. It’d been an easy job and I’d been glad for her patronage, so I found myself pleased at her return.
 
 
