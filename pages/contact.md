@@ -3,12 +3,11 @@
 title: Contact
 layout: Page
 permalink: contact/
-headerimg: 
+headerimg: FFjM3TQ
 footerimg: 
 
 ---
 
-<br /><br /><br /><br />
 Do you make art?
 <br /><br />
 Do you write?
