@@ -2,10 +2,10 @@
 
 title: The Very Last
 layout: Chapter
-permalink: lore/misc/dragonite/
+permalink: lore/firstincursion/dragonite/
 chapternumber: 
-headerimg: 
-footerimg: 
+headerimg: TaLQLO1
+footerimg: e3meYij
 soundcloudnum: 
 forward: 
 backward: 
