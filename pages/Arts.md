@@ -33,17 +33,6 @@ footerimg: KUXPVTE
 <br /><br />
 
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Dcmworks visual -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-2359071490995845"
-     data-ad-slot="5473792740"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<br />
-
 
 
 
