@@ -175,3 +175,15 @@ Umbreon leapt over me, streams of black energy dripping from its teeth. I watche
 
 I took pictures of the dead guy and the Machamp with my phone – a few of each, as long as I could force myself to. Then I got in the Golf, called the police, and drove to Miss Bartlett’s address in silence, my head spinning. The adrenalin eventually left me feeling hungry and tired, hands lead on the wheel. My head pounded absently. That was a close call. People had tried to kill me a lot in the past, but I’d never gone up against anything that big before. I’d been lucky. Really damn lucky. I’d been considering it for a while, but the uneasy weight of a Machamp hitman on my shoulders made the necessity for more firepower pressing. 
 
+<br /><br />
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Dcmworks visual -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-2359071490995845"
+     data-ad-slot="5473792740"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
