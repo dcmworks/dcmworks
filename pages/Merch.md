@@ -1,11 +1,11 @@
 ---
 
-title: Characters of Dcmworks
+title: Merch
 layout: Page
-permalink: characters/
+permalink: merch/
 headerimg: 
 footerimg: 
 
 ---
 <br /><br /><br />
-Come back soon for cool stuff like character BIOs, sneak peaks, illustrations and concept art. Get excited!
+Come back soon for cool stuff like posters and stuff.
