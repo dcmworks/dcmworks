@@ -1,6 +1,6 @@
 ---
 
-title: The Pitt Stop
+title: The Pit Stop
 layout: Chapter
 permalink: novels/necessityofhendricks/3/
 chapternumber: 3
