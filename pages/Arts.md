@@ -8,7 +8,7 @@ footerimg: KUXPVTE
 
 ---
 
-A lot the art we make takes time and various tools. We usually begin by having an artists do a rough outline, and then they apply their magical talent to produce an inked image. From there, if it's a standalone image, it gets coloured digitally or manually. Most of the banners are coloured and drawn by the wonderufl Lindsey, who often uses a mix of water colours and shading. When we have a larger piece of by another artist, it often calls for digital colouring. Below is an insight into how we manipulate the images and art we have to create some of the cool effects you see on the site.
+A lot of the art we make takes time and various tools. We usually begin by having an artists do a rough outline, and then they apply their magical talent to produce an inked image. From there, if it's a standalone image, it gets coloured digitally or manually. Most of the banners are coloured and drawn by the wonderufl Lindsey, who often uses a mix of water colours and shading. When we have a larger piece of by another artist, it often calls for digital colouring. Below is an insight into how we manipulate the images and art we have to create some of the cool effects you see on the site.
 <br /><br />
 
 <img src="http://i.imgur.com/oJjmF6j.jpg" title="Hosted by imgur.com"/>
