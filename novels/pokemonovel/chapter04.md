@@ -6,7 +6,7 @@ permalink: novels/necessityofhendricks/4/
 chapternumber: 4
 headerimg: HatpzHV
 footerimg: zs0R8B0
-soundcloudnum: 
+soundcloudnum: 150357060
 forward: 5
 backward: 3
 
