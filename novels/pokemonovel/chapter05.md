@@ -6,7 +6,7 @@ permalink: novels/necessityofhendricks/5/
 chapternumber: 5
 headerimg: 4rJse9Z
 footerimg: OQFYPhC
-soundcloudnum: 
+soundcloudnum: 152559793
 forward: 6
 backward: 4
 
@@ -94,7 +94,7 @@ I whirled in a full three-sixty, dropping to one knee while drawing my revolver,
 
 <br /><br />
 
-Pixie-cut worked for a thug named Furian, a high-end mobster in the Poke Ball smuggling business. My blonde associate claimed Furian had provided sufficient information about me and my clientele so she was able to invent a case I’d be interested enough to work. The rest was a matter of execution. Then I asked why this fella had wanted me away from the warehouse I didn’t know about, and how it was related to the Devin Western’s apartment. She genuinely had never heard of Mister Western, and confirmed my suspicion that part of the plan was for me to work it all out and come to the warehouse anyway; it was a trap. She did confess, however, her oversight. She hadn’t calculated that I would bring Audrey with me. So I guess that’s something.
+Pixie-cut worked for a thug named Furian, a high-end mobster in the Poke Ball smuggling business. My blonde associate claimed Furian had provided sufficient information about me and my clientele so she was able to invent a case I’d be interested enough to work. The rest was a matter of execution. Then I asked why this fella had wanted me away from the warehouse I didn’t know about, and how it was related to Devin Western’s apartment. She genuinely had never heard of Mister Western, and confirmed my suspicion that part of the plan was for me to work it all out and come to the warehouse anyway; it was a trap. She did confess, however, her oversight. She hadn’t calculated that I would bring Audrey with me. So I guess that’s something.
 
 <br /><br />
 
