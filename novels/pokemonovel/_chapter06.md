@@ -4,8 +4,8 @@ title: The Oak-Wood Framing
 layout: Chapter
 permalink: novels/necessityofhendricks/6/
 chapternumber: 6
-headerimg: 
-footerimg: 
+headerimg: aLELJ0b
+footerimg: ntrgIxk
 soundcloudnum: 
 forward: 7
 backward: 5
