@@ -6,7 +6,7 @@ permalink: novels/necessityofhendricks/6/
 chapternumber: 6
 headerimg: aLELJ0b
 footerimg: ntrgIxk
-soundcloudnum: 
+soundcloudnum: 153802443
 forward: 7
 backward: 5
 
@@ -69,7 +69,7 @@ My office is about a fifteen minute drive from my flat, on the fifth floor of a 
 
 <br /><br />
 
-The database is sort their version of a police database, except it’s a compilation of recently sited or captured illegal Pokémon. I was searching for any leads on Devin Western’s murder – maybe a Scizzor or a Scyther, or anything with a decent breath attack – but after an hour I realised I was looking for a Greninja. The ball felt heavy on my belt, and its feeling on my palm was almost constant, like I was afraid it’d fly away if I didn’t keep touching it. Talk about paranoid.
+The database is sort of their version of a police database, except it’s a compilation of recently sited or captured illegal Pokémon. I was searching for any leads on Devin Western’s murder – maybe a Scizzor or a Scyther, or anything with a decent breath attack – but after an hour I realised I was looking for a Greninja. The ball felt heavy on my belt, and its feeling on my palm was almost constant, like I was afraid it’d fly away if I didn’t keep touching it. Talk about paranoid.
 
 <br /><br />
 
