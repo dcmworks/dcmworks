@@ -34,7 +34,7 @@ What happens next tends to vary. Depending on what we're using the image for, an
 
 <img src="http://i.imgur.com/67Hr9qt.jpg" title="Hosted by imgur.com"/>
 <br />
-Here we see the final product. With branding and font correct, the image is good to go. 
+Here we see the final product. Between this and publication, David does some more cleaning, adjusts the matting and pixel density. With branding and font correct, the image is good to go. 
 <br /><br />
 
 
