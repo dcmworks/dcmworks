@@ -4,8 +4,8 @@ title: Gang & Co.
 layout: Chapter
 permalink: novels/necessityofhendricks/7/
 chapternumber: 7
-headerimg: 
-footerimg: 
+headerimg: E0xBQFQ
+footerimg: OYOixKc
 soundcloudnum: 
 forward: 8
 backward: 6
